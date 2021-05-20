@@ -1,0 +1,813 @@
+a:4:{s:4:"hash";s:0:"";s:5:"mtime";i:1621307314;s:6:"expire";i:1621393714;s:4:"tags";s:162:"626_CAT_P,626_BLOCK_HTML,626_CAT_P_33,626_CAT_P_29,626_CAT_P_27,626_CAT_P_25,626_CAT_P_24,626_CAT_P_23,626_CAT_P_22,626_CAT_P_20,626_CAT_P_10,626_CAT_P_9,626_MAGE";}
+a:2:{s:8:"policies";a:2:{i:0;a:3:{s:2:"id";s:10:"script-src";s:5:"hosts";a:0:{}s:6:"hashes";a:26:{s:44:"7K7h6Yh4QtHHb0ExgGF3A9VzE+ais3HWIKpioWEC3dU=";s:6:"sha256";s:44:"48sb4Je7XoTlJimO7pm/+fwXo5BBI6oU4Vci+QqK2/I=";s:6:"sha256";s:44:"HUjaEs6gPI/8f06cL8Wy1zR3vaPjSDAYb+YL5IRBsf4=";s:6:"sha256";s:44:"9N89WMndeXJQQmez3zcXupuWhb0jRtPuHYgRtBa1Cjo=";s:6:"sha256";s:44:"HNwduqbjOEXLjYYLEEvTNCJ1B1rogsoJEQRjoyAjPzE=";s:6:"sha256";s:44:"Gs6YQPst+PWJA/sNK2HUTXFWh9Umxkr7thuUenTG9Ak=";s:6:"sha256";s:44:"Mtj09Jv1tGWJW2eUwgAsWU2tgsOpVMpAcFmP0rAOLY0=";s:6:"sha256";s:44:"VO2EWBXu27HCMo+CyHsN3hUgzy6vET+l9LkjH9gfjoA=";s:6:"sha256";s:44:"jHMAQUb6khLJ+C6ydSFoKCHCCihBfPTC9/IZ7zLtfqg=";s:6:"sha256";s:44:"9e26kVlpxiS35m6olggRLvFI+ZQIErJZ9YsORL7dsuI=";s:6:"sha256";s:44:"sefD+obj9WB8sfHSo2VsWEGYOVWnn9HrcY7PQHQg/Cs=";s:6:"sha256";s:44:"whXUK/s0kLzdlaxmWu8eqKBDznCXoOsZn3SEp4zOiKo=";s:6:"sha256";s:44:"yg3CYNkjkfshMVG+EC/JJal5FPjcTBOM0MfVsbsaAm0=";s:6:"sha256";s:44:"/SMyPkxuMTWdP46nqw8H6RTzQ3SngKRKSBcNMNC4BxI=";s:6:"sha256";s:44:"1ht5FJVW8Ae8FsYWRI715UoAdNqzT/ew78u40gJyAnA=";s:6:"sha256";s:44:"E9KsbBz05gvzU42fi4nKrYXBZ++WlRdSe8UZmqqz8pM=";s:6:"sha256";s:44:"4AOVD5M20tNg3vvlQdt0nRiePA63/4B1ed0fmmqK484=";s:6:"sha256";s:44:"v+Hr+morVKHMkzw23GALfy8RugEGobxVqB33wyRmP1c=";s:6:"sha256";s:44:"4zYZim9kUQqo1W/sQynq/XGgjkcBqvnioBjrQDqt68Q=";s:6:"sha256";s:44:"wQsCbQYpR5aI6dkYkGaNsT1XfEvP4zV7m6uXPfChYt0=";s:6:"sha256";s:44:"Rz2NUdNVDH0efXBZxUx+kY660uqY3HFxE17DNfqpm/Y=";s:6:"sha256";s:44:"K0TEtCgFiT38yiSHpqtZOJ/+S+4nuCjNAgsrtcPtPYU=";s:6:"sha256";s:44:"YN94EB+B4Gl9V/I6mQBxjf5q0qU30qDNgcoHXzutoWo=";s:6:"sha256";s:44:"Rdo4dJv49HzhcjYVSjNSXhavH8PdxY1sPrdMtWp5b18=";s:6:"sha256";s:44:"Tn8JEjbORToN8Bd7cXK3p0Wc6k5n3IqdCwMbJVa2jUM=";s:6:"sha256";s:44:"5ZTMRRliJClq5a1HBb+d456XI5zb9VHfQ/gsSR1Lbn4=";s:6:"sha256";}}i:1;a:3:{s:2:"id";s:9:"style-src";s:5:"hosts";a:0:{}s:6:"hashes";a:20:{s:44:"LVW61+Hsc4l354c5XInGHYGWR8LIUODsfuspqoqL2R4=";s:6:"sha256";s:44:"jqeOu9GUkYzlCRBTQ4bLnuONM5gvc4R1sgg+4YF3PLc=";s:6:"sha256";s:44:"6NOJG8NZ/olvbtwJkrxKqjizOofHQL8dx3u0kL0jFd0=";s:6:"sha256";s:44:"iOZaIcTOnJqkb6f8Z1zIL2mN0Qq8laNHeSe24/siw3c=";s:6:"sha256";s:44:"A4BTliJKrX4Ug/Rb4m/LYn1QavaKLnYTgoz5MLIfxTE=";s:6:"sha256";s:44:"jEXA3Jp7e78S+Kyee1roe6KFTu4y6EzXegNbDOU1EQI=";s:6:"sha256";s:44:"2UFZDNlw33ODJXptIKw9I+nN5+CVtjszv0Khf0paqks=";s:6:"sha256";s:44:"uUe57KsZMVYE5haA+GYqwNn/vDeB5IpsWjnIeycIZnc=";s:6:"sha256";s:44:"DmS0zUaLkybUvbf56re0Qgklo2I9LX48LnNgYL2wuDg=";s:6:"sha256";s:44:"iXs3IfOE9yYx4MJlq8t5w7xDEFq/ZW7agkSn88yuiu8=";s:6:"sha256";s:44:"2Hb7DntV1Ah5ZNiwJQacrmDJ/FpUXN713cyvA/HS3pk=";s:6:"sha256";s:44:"93an2cJlFVRy5KcQVbaLH7SktFyUlzrqU9u/zKhgjME=";s:6:"sha256";s:44:"/5WTOvIQEvDsWzdm84F/TR45Qvsw9Bhe+uXTLLFCFDc=";s:6:"sha256";s:44:"hbEH69Xp0O6QNjsM2+rRY6BXCnnAEh7ORGZlvbwohZU=";s:6:"sha256";s:44:"uCyUU58uhB2FExRTSgFoNOLGsKRfVFE1FxC2Va1b/N4=";s:6:"sha256";s:44:"gTIIFk+0mMCLXWfJDWeptDN2o9pgYjREAPlb2QSAeRk=";s:6:"sha256";s:44:"0gW9sICCv/Wk+FyI1PLjyyzIS+uDHnM7BzrvMg1mpyI=";s:6:"sha256";s:44:"Eng71meNqb4hokEEdU4E7J9CaTm3PFz+iYzDev9en6E=";s:6:"sha256";s:44:"3hrJOYvpE8sNkG2bpjsCIlKU09e1qxxqsPHQf8pSY/Q=";s:6:"sha256";s:44:"DFwupss2jtBpFOnUi5zlK2n/6QE2oFjG86RrHidy1d0=";s:6:"sha256";}}}s:4:"html";s:64401:"        <div class="owl-button-top above-padding below-padding block widget block-products-list grid">
+                    <div class="page-title-main">
+                <strong>Featured Products</strong>
+            </div>
+                <div class="block-content">
+            <!-- new_products_content_widget_grid-->            <div class="products-grid grid">
+                <div class="slider-outer">
+                    <ol style="margin-bottom: 0;" class="product-widget-slider products list items product-items widget-product-grid">
+                                                                            <li class="product-slider product-item">                            <div class="product-item-info">
+                                <div class="product-img-main">
+                                    <a href="http://localhost/index.php/flycam-dji-mavic-air-2-basic.html" class="product-item-photo">
+                                        <span class="product-image-container product-image-container-33">
+    <span class="product-image-wrapper">
+        <img class="product-image-photo"
+                        src="http://localhost/media/catalog/product/cache/0a2da912110479bc948aefc5b49a3f45/c/3/c3.jpeg"
+            loading="lazy"
+            width="350"
+            height="519"
+            alt="Flycam&#x20;DJI&#x20;Mavic&#x20;Air&#x20;2&#x20;Basic"/></span>
+</span>
+<style>.product-image-container-33 {
+    width: 350px;
+}
+.product-image-container-33 span.product-image-wrapper {
+    padding-bottom: 148.28571428571%;
+}</style><script type="text&#x2F;javascript">prodImageContainers = document.querySelectorAll(".product-image-container-33");
+for (var i = 0; i < prodImageContainers.length; i++) {
+    prodImageContainers[i].style.width = "350px";
+}
+prodImageContainersWrappers = document.querySelectorAll(
+    ".product-image-container-33  span.product-image-wrapper"
+);
+for (var i = 0; i < prodImageContainersWrappers.length; i++) {
+    prodImageContainersWrappers[i].style.paddingBottom = "148.28571428571%";
+}</script>                                    </a>
+                                    <div class="product-item-inner">
+                                                                                    <div class="product actions product-item-actions">
+                                                <div class="actions-secondary" data-role="add-to-links">
+                                                                                                            <a href="#"
+                                                           data-post='{"action":"http:\/\/localhost\/index.php\/wishlist\/index\/add\/","data":{"product":33,"uenc":"aHR0cDovL2xvY2FsaG9zdC9pbmRleC5waHAv"}}'
+                                                           class="action towishlist" data-action="add-to-wishlist"
+                                                           title="Add to Wish List">
+                                                            <span>Add to Wish List</span>
+                                                        </a>
+                                                                                                                                                                                                                        <a href="#" class="action tocompare"
+                                                           data-post='{"action":"http:\/\/localhost\/index.php\/catalog\/product_compare\/add\/","data":{"product":"33","uenc":"aHR0cDovL2xvY2FsaG9zdC9pbmRleC5waHAv"}}'
+                                                           title="Add to Compare">
+                                                            <span>Add to Compare</span>
+                                                        </a>
+                                                                                                    </div>
+                                            </div>
+                                                                            </div>
+                                </div>
+                                <div class="product-item-details">
+                                    <strong class="product-item-name">
+                                        <a title="Flycam DJI Mavic Air 2 Basic"
+                                           href="http://localhost/index.php/flycam-dji-mavic-air-2-basic.html"
+                                           class="product-item-link">
+                                               Flycam DJI Mavic Air 2 Basic                                        </a>
+                                    </strong>
+                                    <div class="price-box price-final_price" data-role="priceBox" data-product-id="33" data-price-box="product-id-33">
+    
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+        <span  id="old-price-33-widget-product-grid"                data-price-amount="18000000"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">18.000.000,00 ₫</span></span>
+        </span>
+
+</div>
+                                                                                                                
+                                                                            <div class="product-item-inner">
+                                            <div class="product-item-actions">
+                                                                                                    <div class="actions-primary">
+                                                                                                                                                                                                                                                    <button class="action tocart primary"
+                                                                        data-post='{"action":"http:\/\/localhost\/index.php\/checkout\/cart\/add\/uenc\/aHR0cDovL2xvY2FsaG9zdC9pbmRleC5waHAv\/product\/33\/","data":{"product":"33","uenc":"aHR0cDovL2xvY2FsaG9zdC9pbmRleC5waHAv"}}'
+                                                                        type="button" title="Add to Cart">
+                                                                    <span>Add to Cart</span>
+                                                                </button>
+                                                                                                                                                                        </div>
+                                                                                            </div>
+                                        </div>
+                                                                    </div>
+                            </div>
+                                                                                </li><li class="product-slider product-item">                            <div class="product-item-info">
+                                <div class="product-img-main">
+                                    <a href="http://localhost/index.php/smart-tivi-lg-8k-75-inch-75sm9900pta.html" class="product-item-photo">
+                                        <span class="product-image-container product-image-container-29">
+    <span class="product-image-wrapper">
+        <img class="product-image-photo"
+                        src="http://localhost/media/catalog/product/cache/0a2da912110479bc948aefc5b49a3f45/e/d/ed9.png"
+            loading="lazy"
+            width="350"
+            height="519"
+            alt="Smart&#x20;Tivi&#x20;LG&#x20;8K&#x20;75&#x20;inch&#x20;75SM9900PTA"/></span>
+</span>
+<style>.product-image-container-29 {
+    width: 350px;
+}
+.product-image-container-29 span.product-image-wrapper {
+    padding-bottom: 148.28571428571%;
+}</style><script type="text&#x2F;javascript">prodImageContainers = document.querySelectorAll(".product-image-container-29");
+for (var i = 0; i < prodImageContainers.length; i++) {
+    prodImageContainers[i].style.width = "350px";
+}
+prodImageContainersWrappers = document.querySelectorAll(
+    ".product-image-container-29  span.product-image-wrapper"
+);
+for (var i = 0; i < prodImageContainersWrappers.length; i++) {
+    prodImageContainersWrappers[i].style.paddingBottom = "148.28571428571%";
+}</script>                                    </a>
+                                    <div class="product-item-inner">
+                                                                                    <div class="product actions product-item-actions">
+                                                <div class="actions-secondary" data-role="add-to-links">
+                                                                                                            <a href="#"
+                                                           data-post='{"action":"http:\/\/localhost\/index.php\/wishlist\/index\/add\/","data":{"product":29,"uenc":"aHR0cDovL2xvY2FsaG9zdC9pbmRleC5waHAv"}}'
+                                                           class="action towishlist" data-action="add-to-wishlist"
+                                                           title="Add to Wish List">
+                                                            <span>Add to Wish List</span>
+                                                        </a>
+                                                                                                                                                                                                                        <a href="#" class="action tocompare"
+                                                           data-post='{"action":"http:\/\/localhost\/index.php\/catalog\/product_compare\/add\/","data":{"product":"29","uenc":"aHR0cDovL2xvY2FsaG9zdC9pbmRleC5waHAv"}}'
+                                                           title="Add to Compare">
+                                                            <span>Add to Compare</span>
+                                                        </a>
+                                                                                                    </div>
+                                            </div>
+                                                                            </div>
+                                </div>
+                                <div class="product-item-details">
+                                    <strong class="product-item-name">
+                                        <a title="Smart Tivi LG 8K 75 inch 75SM9900PTA"
+                                           href="http://localhost/index.php/smart-tivi-lg-8k-75-inch-75sm9900pta.html"
+                                           class="product-item-link">
+                                               Smart Tivi LG 8K 75 inch 75SM9900PTA                                        </a>
+                                    </strong>
+                                    <div class="price-box price-final_price" data-role="priceBox" data-product-id="29" data-price-box="product-id-29">
+    
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+        <span  id="old-price-29-widget-product-grid"                data-price-amount="99000000"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">99.000.000,00 ₫</span></span>
+        </span>
+
+</div>
+                                                                                                                
+                                                                            <div class="product-item-inner">
+                                            <div class="product-item-actions">
+                                                                                                    <div class="actions-primary">
+                                                                                                                                                                                                                                                    <button class="action tocart primary"
+                                                                        data-post='{"action":"http:\/\/localhost\/index.php\/checkout\/cart\/add\/uenc\/aHR0cDovL2xvY2FsaG9zdC9pbmRleC5waHAv\/product\/29\/","data":{"product":"29","uenc":"aHR0cDovL2xvY2FsaG9zdC9pbmRleC5waHAv"}}'
+                                                                        type="button" title="Add to Cart">
+                                                                    <span>Add to Cart</span>
+                                                                </button>
+                                                                                                                                                                        </div>
+                                                                                            </div>
+                                        </div>
+                                                                    </div>
+                            </div>
+                                                                                </li><li class="product-slider product-item">                            <div class="product-item-info">
+                                <div class="product-img-main">
+                                    <a href="http://localhost/index.php/soundbar-lg-sn5r.html" class="product-item-photo">
+                                        <span class="product-image-container product-image-container-27">
+    <span class="product-image-wrapper">
+        <img class="product-image-photo"
+                        src="http://localhost/media/catalog/product/cache/0a2da912110479bc948aefc5b49a3f45/e/d/ed7.jpeg"
+            loading="lazy"
+            width="350"
+            height="519"
+            alt="Soundbar&#x20;LG&#x20;SN5R"/></span>
+</span>
+<style>.product-image-container-27 {
+    width: 350px;
+}
+.product-image-container-27 span.product-image-wrapper {
+    padding-bottom: 148.28571428571%;
+}</style><script type="text&#x2F;javascript">prodImageContainers = document.querySelectorAll(".product-image-container-27");
+for (var i = 0; i < prodImageContainers.length; i++) {
+    prodImageContainers[i].style.width = "350px";
+}
+prodImageContainersWrappers = document.querySelectorAll(
+    ".product-image-container-27  span.product-image-wrapper"
+);
+for (var i = 0; i < prodImageContainersWrappers.length; i++) {
+    prodImageContainersWrappers[i].style.paddingBottom = "148.28571428571%";
+}</script>                                    </a>
+                                    <div class="product-item-inner">
+                                                                                    <div class="product actions product-item-actions">
+                                                <div class="actions-secondary" data-role="add-to-links">
+                                                                                                            <a href="#"
+                                                           data-post='{"action":"http:\/\/localhost\/index.php\/wishlist\/index\/add\/","data":{"product":27,"uenc":"aHR0cDovL2xvY2FsaG9zdC9pbmRleC5waHAv"}}'
+                                                           class="action towishlist" data-action="add-to-wishlist"
+                                                           title="Add to Wish List">
+                                                            <span>Add to Wish List</span>
+                                                        </a>
+                                                                                                                                                                                                                        <a href="#" class="action tocompare"
+                                                           data-post='{"action":"http:\/\/localhost\/index.php\/catalog\/product_compare\/add\/","data":{"product":"27","uenc":"aHR0cDovL2xvY2FsaG9zdC9pbmRleC5waHAv"}}'
+                                                           title="Add to Compare">
+                                                            <span>Add to Compare</span>
+                                                        </a>
+                                                                                                    </div>
+                                            </div>
+                                                                            </div>
+                                </div>
+                                <div class="product-item-details">
+                                    <strong class="product-item-name">
+                                        <a title="Soundbar LG SN5R"
+                                           href="http://localhost/index.php/soundbar-lg-sn5r.html"
+                                           class="product-item-link">
+                                               Soundbar LG SN5R                                        </a>
+                                    </strong>
+                                    <div class="price-box price-final_price" data-role="priceBox" data-product-id="27" data-price-box="product-id-27">
+    
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+        <span  id="old-price-27-widget-product-grid"                data-price-amount="4390000"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">4.390.000,00 ₫</span></span>
+        </span>
+
+</div>
+                                                                                                                
+                                                                            <div class="product-item-inner">
+                                            <div class="product-item-actions">
+                                                                                                    <div class="actions-primary">
+                                                                                                                                                                                                                                                    <button class="action tocart primary"
+                                                                        data-post='{"action":"http:\/\/localhost\/index.php\/checkout\/cart\/add\/uenc\/aHR0cDovL2xvY2FsaG9zdC9pbmRleC5waHAv\/product\/27\/","data":{"product":"27","uenc":"aHR0cDovL2xvY2FsaG9zdC9pbmRleC5waHAv"}}'
+                                                                        type="button" title="Add to Cart">
+                                                                    <span>Add to Cart</span>
+                                                                </button>
+                                                                                                                                                                        </div>
+                                                                                            </div>
+                                        </div>
+                                                                    </div>
+                            </div>
+                                                                                </li><li class="product-slider product-item">                            <div class="product-item-info">
+                                <div class="product-img-main">
+                                    <a href="http://localhost/index.php/flydigi-apex-2.html" class="product-item-photo">
+                                        <span class="product-image-container product-image-container-25">
+    <span class="product-image-wrapper">
+        <img class="product-image-photo"
+                        src="http://localhost/media/catalog/product/cache/0a2da912110479bc948aefc5b49a3f45/e/d/ed5.jpg"
+            loading="lazy"
+            width="350"
+            height="519"
+            alt="Flydigi&#x20;Apex&#x20;2"/></span>
+</span>
+<style>.product-image-container-25 {
+    width: 350px;
+}
+.product-image-container-25 span.product-image-wrapper {
+    padding-bottom: 148.28571428571%;
+}</style><script type="text&#x2F;javascript">prodImageContainers = document.querySelectorAll(".product-image-container-25");
+for (var i = 0; i < prodImageContainers.length; i++) {
+    prodImageContainers[i].style.width = "350px";
+}
+prodImageContainersWrappers = document.querySelectorAll(
+    ".product-image-container-25  span.product-image-wrapper"
+);
+for (var i = 0; i < prodImageContainersWrappers.length; i++) {
+    prodImageContainersWrappers[i].style.paddingBottom = "148.28571428571%";
+}</script>                                    </a>
+                                    <div class="product-item-inner">
+                                                                                    <div class="product actions product-item-actions">
+                                                <div class="actions-secondary" data-role="add-to-links">
+                                                                                                            <a href="#"
+                                                           data-post='{"action":"http:\/\/localhost\/index.php\/wishlist\/index\/add\/","data":{"product":25,"uenc":"aHR0cDovL2xvY2FsaG9zdC9pbmRleC5waHAv"}}'
+                                                           class="action towishlist" data-action="add-to-wishlist"
+                                                           title="Add to Wish List">
+                                                            <span>Add to Wish List</span>
+                                                        </a>
+                                                                                                                                                                                                                        <a href="#" class="action tocompare"
+                                                           data-post='{"action":"http:\/\/localhost\/index.php\/catalog\/product_compare\/add\/","data":{"product":"25","uenc":"aHR0cDovL2xvY2FsaG9zdC9pbmRleC5waHAv"}}'
+                                                           title="Add to Compare">
+                                                            <span>Add to Compare</span>
+                                                        </a>
+                                                                                                    </div>
+                                            </div>
+                                                                            </div>
+                                </div>
+                                <div class="product-item-details">
+                                    <strong class="product-item-name">
+                                        <a title="Flydigi Apex 2"
+                                           href="http://localhost/index.php/flydigi-apex-2.html"
+                                           class="product-item-link">
+                                               Flydigi Apex 2                                        </a>
+                                    </strong>
+                                    <div class="price-box price-final_price" data-role="priceBox" data-product-id="25" data-price-box="product-id-25">
+    
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+        <span  id="old-price-25-widget-product-grid"                data-price-amount="1590000"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">1.590.000,00 ₫</span></span>
+        </span>
+
+</div>
+                                                                                                                
+                                                                            <div class="product-item-inner">
+                                            <div class="product-item-actions">
+                                                                                                    <div class="actions-primary">
+                                                                                                                                                                                                                                                    <button class="action tocart primary"
+                                                                        data-post='{"action":"http:\/\/localhost\/index.php\/checkout\/cart\/add\/uenc\/aHR0cDovL2xvY2FsaG9zdC9pbmRleC5waHAv\/product\/25\/","data":{"product":"25","uenc":"aHR0cDovL2xvY2FsaG9zdC9pbmRleC5waHAv"}}'
+                                                                        type="button" title="Add to Cart">
+                                                                    <span>Add to Cart</span>
+                                                                </button>
+                                                                                                                                                                        </div>
+                                                                                            </div>
+                                        </div>
+                                                                    </div>
+                            </div>
+                                                                                </li><li class="product-slider product-item">                            <div class="product-item-info">
+                                <div class="product-img-main">
+                                    <a href="http://localhost/index.php/playstation-5-ps5.html" class="product-item-photo">
+                                        <span class="product-image-container product-image-container-24">
+    <span class="product-image-wrapper">
+        <img class="product-image-photo"
+                        src="http://localhost/media/catalog/product/cache/0a2da912110479bc948aefc5b49a3f45/e/d/ed4.jpeg"
+            loading="lazy"
+            width="350"
+            height="519"
+            alt="Playstation&#x20;5&#x2F;Ps5"/></span>
+</span>
+<style>.product-image-container-24 {
+    width: 350px;
+}
+.product-image-container-24 span.product-image-wrapper {
+    padding-bottom: 148.28571428571%;
+}</style><script type="text&#x2F;javascript">prodImageContainers = document.querySelectorAll(".product-image-container-24");
+for (var i = 0; i < prodImageContainers.length; i++) {
+    prodImageContainers[i].style.width = "350px";
+}
+prodImageContainersWrappers = document.querySelectorAll(
+    ".product-image-container-24  span.product-image-wrapper"
+);
+for (var i = 0; i < prodImageContainersWrappers.length; i++) {
+    prodImageContainersWrappers[i].style.paddingBottom = "148.28571428571%";
+}</script>                                    </a>
+                                    <div class="product-item-inner">
+                                                                                    <div class="product actions product-item-actions">
+                                                <div class="actions-secondary" data-role="add-to-links">
+                                                                                                            <a href="#"
+                                                           data-post='{"action":"http:\/\/localhost\/index.php\/wishlist\/index\/add\/","data":{"product":24,"uenc":"aHR0cDovL2xvY2FsaG9zdC9pbmRleC5waHAv"}}'
+                                                           class="action towishlist" data-action="add-to-wishlist"
+                                                           title="Add to Wish List">
+                                                            <span>Add to Wish List</span>
+                                                        </a>
+                                                                                                                                                                                                                        <a href="#" class="action tocompare"
+                                                           data-post='{"action":"http:\/\/localhost\/index.php\/catalog\/product_compare\/add\/","data":{"product":"24","uenc":"aHR0cDovL2xvY2FsaG9zdC9pbmRleC5waHAv"}}'
+                                                           title="Add to Compare">
+                                                            <span>Add to Compare</span>
+                                                        </a>
+                                                                                                    </div>
+                                            </div>
+                                                                            </div>
+                                </div>
+                                <div class="product-item-details">
+                                    <strong class="product-item-name">
+                                        <a title="Playstation 5/Ps5"
+                                           href="http://localhost/index.php/playstation-5-ps5.html"
+                                           class="product-item-link">
+                                               Playstation 5/Ps5                                        </a>
+                                    </strong>
+                                    <div class="price-box price-final_price" data-role="priceBox" data-product-id="24" data-price-box="product-id-24">
+    
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+        <span  id="old-price-24-widget-product-grid"                data-price-amount="28900000"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">28.900.000,00 ₫</span></span>
+        </span>
+
+</div>
+                                                                                                                
+                                                                            <div class="product-item-inner">
+                                            <div class="product-item-actions">
+                                                                                                    <div class="actions-primary">
+                                                                                                                                                                                                                                                    <button class="action tocart primary"
+                                                                        data-post='{"action":"http:\/\/localhost\/index.php\/checkout\/cart\/add\/uenc\/aHR0cDovL2xvY2FsaG9zdC9pbmRleC5waHAv\/product\/24\/","data":{"product":"24","uenc":"aHR0cDovL2xvY2FsaG9zdC9pbmRleC5waHAv"}}'
+                                                                        type="button" title="Add to Cart">
+                                                                    <span>Add to Cart</span>
+                                                                </button>
+                                                                                                                                                                        </div>
+                                                                                            </div>
+                                        </div>
+                                                                    </div>
+                            </div>
+                                                                                </li><li class="product-slider product-item">                            <div class="product-item-info">
+                                <div class="product-img-main">
+                                    <a href="http://localhost/index.php/smart-tivi-4k-uhd-samsung-50-inch.html" class="product-item-photo">
+                                        <span class="product-image-container product-image-container-23">
+    <span class="product-image-wrapper">
+        <img class="product-image-photo"
+                        src="http://localhost/media/catalog/product/cache/0a2da912110479bc948aefc5b49a3f45/e/d/ed3.png"
+            loading="lazy"
+            width="350"
+            height="519"
+            alt="Smart&#x20;Tivi&#x20;4K&#x20;UHD&#x20;Samsung&#x20;50&#x20;inch"/></span>
+</span>
+<style>.product-image-container-23 {
+    width: 350px;
+}
+.product-image-container-23 span.product-image-wrapper {
+    padding-bottom: 148.28571428571%;
+}</style><script type="text&#x2F;javascript">prodImageContainers = document.querySelectorAll(".product-image-container-23");
+for (var i = 0; i < prodImageContainers.length; i++) {
+    prodImageContainers[i].style.width = "350px";
+}
+prodImageContainersWrappers = document.querySelectorAll(
+    ".product-image-container-23  span.product-image-wrapper"
+);
+for (var i = 0; i < prodImageContainersWrappers.length; i++) {
+    prodImageContainersWrappers[i].style.paddingBottom = "148.28571428571%";
+}</script>                                    </a>
+                                    <div class="product-item-inner">
+                                                                                    <div class="product actions product-item-actions">
+                                                <div class="actions-secondary" data-role="add-to-links">
+                                                                                                            <a href="#"
+                                                           data-post='{"action":"http:\/\/localhost\/index.php\/wishlist\/index\/add\/","data":{"product":23,"uenc":"aHR0cDovL2xvY2FsaG9zdC9pbmRleC5waHAv"}}'
+                                                           class="action towishlist" data-action="add-to-wishlist"
+                                                           title="Add to Wish List">
+                                                            <span>Add to Wish List</span>
+                                                        </a>
+                                                                                                                                                                                                                        <a href="#" class="action tocompare"
+                                                           data-post='{"action":"http:\/\/localhost\/index.php\/catalog\/product_compare\/add\/","data":{"product":"23","uenc":"aHR0cDovL2xvY2FsaG9zdC9pbmRleC5waHAv"}}'
+                                                           title="Add to Compare">
+                                                            <span>Add to Compare</span>
+                                                        </a>
+                                                                                                    </div>
+                                            </div>
+                                                                            </div>
+                                </div>
+                                <div class="product-item-details">
+                                    <strong class="product-item-name">
+                                        <a title="Smart Tivi 4K UHD Samsung 50 inch"
+                                           href="http://localhost/index.php/smart-tivi-4k-uhd-samsung-50-inch.html"
+                                           class="product-item-link">
+                                               Smart Tivi 4K UHD Samsung 50 inch                                        </a>
+                                    </strong>
+                                    <div class="price-box price-final_price" data-role="priceBox" data-product-id="23" data-price-box="product-id-23">
+    
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+        <span  id="old-price-23-widget-product-grid"                data-price-amount="10990000"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">10.990.000,00 ₫</span></span>
+        </span>
+
+</div>
+                                                                                                                
+                                                                            <div class="product-item-inner">
+                                            <div class="product-item-actions">
+                                                                                                    <div class="actions-primary">
+                                                                                                                                                                                                                                                    <button class="action tocart primary"
+                                                                        data-post='{"action":"http:\/\/localhost\/index.php\/checkout\/cart\/add\/uenc\/aHR0cDovL2xvY2FsaG9zdC9pbmRleC5waHAv\/product\/23\/","data":{"product":"23","uenc":"aHR0cDovL2xvY2FsaG9zdC9pbmRleC5waHAv"}}'
+                                                                        type="button" title="Add to Cart">
+                                                                    <span>Add to Cart</span>
+                                                                </button>
+                                                                                                                                                                        </div>
+                                                                                            </div>
+                                        </div>
+                                                                    </div>
+                            </div>
+                                                                                </li><li class="product-slider product-item">                            <div class="product-item-info">
+                                <div class="product-img-main">
+                                    <a href="http://localhost/index.php/smart-tivi-lg-55-inch-uhd-4k-55un7300ptc-model-2020.html" class="product-item-photo">
+                                        <span class="product-image-container product-image-container-22">
+    <span class="product-image-wrapper">
+        <img class="product-image-photo"
+                        src="http://localhost/media/catalog/product/cache/0a2da912110479bc948aefc5b49a3f45/e/d/ed2.png"
+            loading="lazy"
+            width="350"
+            height="519"
+            alt="Smart&#x20;Tivi&#x20;LG&#x20;55&#x20;Inch&#x20;UHD&#x20;4K&#x20;55UN7300PTC&#x20;-&#x20;Model&#x20;2020"/></span>
+</span>
+<style>.product-image-container-22 {
+    width: 350px;
+}
+.product-image-container-22 span.product-image-wrapper {
+    padding-bottom: 148.28571428571%;
+}</style><script type="text&#x2F;javascript">prodImageContainers = document.querySelectorAll(".product-image-container-22");
+for (var i = 0; i < prodImageContainers.length; i++) {
+    prodImageContainers[i].style.width = "350px";
+}
+prodImageContainersWrappers = document.querySelectorAll(
+    ".product-image-container-22  span.product-image-wrapper"
+);
+for (var i = 0; i < prodImageContainersWrappers.length; i++) {
+    prodImageContainersWrappers[i].style.paddingBottom = "148.28571428571%";
+}</script>                                    </a>
+                                    <div class="product-item-inner">
+                                                                                    <div class="product actions product-item-actions">
+                                                <div class="actions-secondary" data-role="add-to-links">
+                                                                                                            <a href="#"
+                                                           data-post='{"action":"http:\/\/localhost\/index.php\/wishlist\/index\/add\/","data":{"product":22,"uenc":"aHR0cDovL2xvY2FsaG9zdC9pbmRleC5waHAv"}}'
+                                                           class="action towishlist" data-action="add-to-wishlist"
+                                                           title="Add to Wish List">
+                                                            <span>Add to Wish List</span>
+                                                        </a>
+                                                                                                                                                                                                                        <a href="#" class="action tocompare"
+                                                           data-post='{"action":"http:\/\/localhost\/index.php\/catalog\/product_compare\/add\/","data":{"product":"22","uenc":"aHR0cDovL2xvY2FsaG9zdC9pbmRleC5waHAv"}}'
+                                                           title="Add to Compare">
+                                                            <span>Add to Compare</span>
+                                                        </a>
+                                                                                                    </div>
+                                            </div>
+                                                                            </div>
+                                </div>
+                                <div class="product-item-details">
+                                    <strong class="product-item-name">
+                                        <a title="Smart Tivi LG 55 Inch UHD 4K 55UN7300PTC - Model 2020"
+                                           href="http://localhost/index.php/smart-tivi-lg-55-inch-uhd-4k-55un7300ptc-model-2020.html"
+                                           class="product-item-link">
+                                               Smart Tivi LG 55 Inch UHD 4K 55UN7300PTC - Model 2020                                        </a>
+                                    </strong>
+                                    <div class="price-box price-final_price" data-role="priceBox" data-product-id="22" data-price-box="product-id-22">
+    
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+        <span  id="old-price-22-widget-product-grid"                data-price-amount="19400000"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">19.400.000,00 ₫</span></span>
+        </span>
+
+</div>
+                                                                                                                
+                                                                            <div class="product-item-inner">
+                                            <div class="product-item-actions">
+                                                                                                    <div class="actions-primary">
+                                                                                                                                                                                                                                                    <button class="action tocart primary"
+                                                                        data-post='{"action":"http:\/\/localhost\/index.php\/checkout\/cart\/add\/uenc\/aHR0cDovL2xvY2FsaG9zdC9pbmRleC5waHAv\/product\/22\/","data":{"product":"22","uenc":"aHR0cDovL2xvY2FsaG9zdC9pbmRleC5waHAv"}}'
+                                                                        type="button" title="Add to Cart">
+                                                                    <span>Add to Cart</span>
+                                                                </button>
+                                                                                                                                                                        </div>
+                                                                                            </div>
+                                        </div>
+                                                                    </div>
+                            </div>
+                                                                                </li><li class="product-slider product-item">                            <div class="product-item-info">
+                                <div class="product-img-main">
+                                    <a href="http://localhost/index.php/computer-graphics-card-msi-gtx-1660-super-ventus-oc.html" class="product-item-photo">
+                                        <span class="product-image-container product-image-container-20">
+    <span class="product-image-wrapper">
+        <img class="product-image-photo"
+                        src="http://localhost/media/catalog/product/cache/0a2da912110479bc948aefc5b49a3f45/p/c/pc10.jpg"
+            loading="lazy"
+            width="350"
+            height="519"
+            alt="Computer&#x20;Graphics&#x20;Card&#x20;MSI&#x20;GTX&#x20;1660&#x20;Super&#x20;VENTUS&#x20;OC"/></span>
+</span>
+<style>.product-image-container-20 {
+    width: 350px;
+}
+.product-image-container-20 span.product-image-wrapper {
+    padding-bottom: 148.28571428571%;
+}</style><script type="text&#x2F;javascript">prodImageContainers = document.querySelectorAll(".product-image-container-20");
+for (var i = 0; i < prodImageContainers.length; i++) {
+    prodImageContainers[i].style.width = "350px";
+}
+prodImageContainersWrappers = document.querySelectorAll(
+    ".product-image-container-20  span.product-image-wrapper"
+);
+for (var i = 0; i < prodImageContainersWrappers.length; i++) {
+    prodImageContainersWrappers[i].style.paddingBottom = "148.28571428571%";
+}</script>                                    </a>
+                                    <div class="product-item-inner">
+                                                                                    <div class="product actions product-item-actions">
+                                                <div class="actions-secondary" data-role="add-to-links">
+                                                                                                            <a href="#"
+                                                           data-post='{"action":"http:\/\/localhost\/index.php\/wishlist\/index\/add\/","data":{"product":20,"uenc":"aHR0cDovL2xvY2FsaG9zdC9pbmRleC5waHAv"}}'
+                                                           class="action towishlist" data-action="add-to-wishlist"
+                                                           title="Add to Wish List">
+                                                            <span>Add to Wish List</span>
+                                                        </a>
+                                                                                                                                                                                                                        <a href="#" class="action tocompare"
+                                                           data-post='{"action":"http:\/\/localhost\/index.php\/catalog\/product_compare\/add\/","data":{"product":"20","uenc":"aHR0cDovL2xvY2FsaG9zdC9pbmRleC5waHAv"}}'
+                                                           title="Add to Compare">
+                                                            <span>Add to Compare</span>
+                                                        </a>
+                                                                                                    </div>
+                                            </div>
+                                                                            </div>
+                                </div>
+                                <div class="product-item-details">
+                                    <strong class="product-item-name">
+                                        <a title="Computer Graphics Card MSI GTX 1660 Super VENTUS OC"
+                                           href="http://localhost/index.php/computer-graphics-card-msi-gtx-1660-super-ventus-oc.html"
+                                           class="product-item-link">
+                                               Computer Graphics Card MSI GTX 1660 Super VENTUS OC                                        </a>
+                                    </strong>
+                                    <div class="price-box price-final_price" data-role="priceBox" data-product-id="20" data-price-box="product-id-20">
+    
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+        <span  id="old-price-20-widget-product-grid"                data-price-amount="16900000"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">16.900.000,00 ₫</span></span>
+        </span>
+
+</div>
+                                                                                                                
+                                                                            <div class="product-item-inner">
+                                            <div class="product-item-actions">
+                                                                                                    <div class="actions-primary">
+                                                                                                                                                                                                                                                    <button class="action tocart primary"
+                                                                        data-post='{"action":"http:\/\/localhost\/index.php\/checkout\/cart\/add\/uenc\/aHR0cDovL2xvY2FsaG9zdC9pbmRleC5waHAv\/product\/20\/","data":{"product":"20","uenc":"aHR0cDovL2xvY2FsaG9zdC9pbmRleC5waHAv"}}'
+                                                                        type="button" title="Add to Cart">
+                                                                    <span>Add to Cart</span>
+                                                                </button>
+                                                                                                                                                                        </div>
+                                                                                            </div>
+                                        </div>
+                                                                    </div>
+                            </div>
+                                                                                </li><li class="product-slider product-item">                            <div class="product-item-info">
+                                <div class="product-img-main">
+                                    <a href="http://localhost/index.php/samsung-galaxy-fit-2-sm-r220.html" class="product-item-photo">
+                                        <span class="product-image-container product-image-container-10">
+    <span class="product-image-wrapper">
+        <img class="product-image-photo"
+                        src="http://localhost/media/catalog/product/cache/0a2da912110479bc948aefc5b49a3f45/s/s/ssfit.jpeg"
+            loading="lazy"
+            width="350"
+            height="519"
+            alt="Samsung&#x20;Galaxy&#x20;Fit&#x20;2&#x20;&#x28;SM-R220&#x29;"/></span>
+</span>
+<style>.product-image-container-10 {
+    width: 350px;
+}
+.product-image-container-10 span.product-image-wrapper {
+    padding-bottom: 148.28571428571%;
+}</style><script type="text&#x2F;javascript">prodImageContainers = document.querySelectorAll(".product-image-container-10");
+for (var i = 0; i < prodImageContainers.length; i++) {
+    prodImageContainers[i].style.width = "350px";
+}
+prodImageContainersWrappers = document.querySelectorAll(
+    ".product-image-container-10  span.product-image-wrapper"
+);
+for (var i = 0; i < prodImageContainersWrappers.length; i++) {
+    prodImageContainersWrappers[i].style.paddingBottom = "148.28571428571%";
+}</script>                                    </a>
+                                    <div class="product-item-inner">
+                                                                                    <div class="product actions product-item-actions">
+                                                <div class="actions-secondary" data-role="add-to-links">
+                                                                                                            <a href="#"
+                                                           data-post='{"action":"http:\/\/localhost\/index.php\/wishlist\/index\/add\/","data":{"product":10,"uenc":"aHR0cDovL2xvY2FsaG9zdC9pbmRleC5waHAv"}}'
+                                                           class="action towishlist" data-action="add-to-wishlist"
+                                                           title="Add to Wish List">
+                                                            <span>Add to Wish List</span>
+                                                        </a>
+                                                                                                                                                                                                                        <a href="#" class="action tocompare"
+                                                           data-post='{"action":"http:\/\/localhost\/index.php\/catalog\/product_compare\/add\/","data":{"product":"10","uenc":"aHR0cDovL2xvY2FsaG9zdC9pbmRleC5waHAv"}}'
+                                                           title="Add to Compare">
+                                                            <span>Add to Compare</span>
+                                                        </a>
+                                                                                                    </div>
+                                            </div>
+                                                                            </div>
+                                </div>
+                                <div class="product-item-details">
+                                    <strong class="product-item-name">
+                                        <a title="Samsung Galaxy Fit 2 (SM-R220)"
+                                           href="http://localhost/index.php/samsung-galaxy-fit-2-sm-r220.html"
+                                           class="product-item-link">
+                                               Samsung Galaxy Fit 2 (SM-R220)                                        </a>
+                                    </strong>
+                                    <div class="price-box price-final_price" data-role="priceBox" data-product-id="10" data-price-box="product-id-10">
+    
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+        <span  id="old-price-10-widget-product-grid"                data-price-amount="980000"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">980.000,00 ₫</span></span>
+        </span>
+
+</div>
+                                                                                                                
+                                                                            <div class="product-item-inner">
+                                            <div class="product-item-actions">
+                                                                                                    <div class="actions-primary">
+                                                                                                                                                                                                                                                    <button class="action tocart primary"
+                                                                        data-post='{"action":"http:\/\/localhost\/index.php\/checkout\/cart\/add\/uenc\/aHR0cDovL2xvY2FsaG9zdC9pbmRleC5waHAv\/product\/10\/","data":{"product":"10","uenc":"aHR0cDovL2xvY2FsaG9zdC9pbmRleC5waHAv"}}'
+                                                                        type="button" title="Add to Cart">
+                                                                    <span>Add to Cart</span>
+                                                                </button>
+                                                                                                                                                                        </div>
+                                                                                            </div>
+                                        </div>
+                                                                    </div>
+                            </div>
+                                                                                </li><li class="product-slider product-item">                            <div class="product-item-info">
+                                <div class="product-img-main">
+                                    <a href="http://localhost/index.php/bluetooth-true-wireless-samsung-galaxy-buds-live.html" class="product-item-photo">
+                                        <span class="product-image-container product-image-container-9">
+    <span class="product-image-wrapper">
+        <img class="product-image-photo"
+                        src="http://localhost/media/catalog/product/cache/0a2da912110479bc948aefc5b49a3f45/s/s/ssbuds.jpeg"
+            loading="lazy"
+            width="350"
+            height="519"
+            alt="Bluetooth&#x20;True&#x20;Wireless&#x20;Samsung&#x20;Galaxy&#x20;Buds&#x20;Live"/></span>
+</span>
+<style>.product-image-container-9 {
+    width: 350px;
+}
+.product-image-container-9 span.product-image-wrapper {
+    padding-bottom: 148.28571428571%;
+}</style><script type="text&#x2F;javascript">prodImageContainers = document.querySelectorAll(".product-image-container-9");
+for (var i = 0; i < prodImageContainers.length; i++) {
+    prodImageContainers[i].style.width = "350px";
+}
+prodImageContainersWrappers = document.querySelectorAll(
+    ".product-image-container-9  span.product-image-wrapper"
+);
+for (var i = 0; i < prodImageContainersWrappers.length; i++) {
+    prodImageContainersWrappers[i].style.paddingBottom = "148.28571428571%";
+}</script>                                    </a>
+                                    <div class="product-item-inner">
+                                                                                    <div class="product actions product-item-actions">
+                                                <div class="actions-secondary" data-role="add-to-links">
+                                                                                                            <a href="#"
+                                                           data-post='{"action":"http:\/\/localhost\/index.php\/wishlist\/index\/add\/","data":{"product":9,"uenc":"aHR0cDovL2xvY2FsaG9zdC9pbmRleC5waHAv"}}'
+                                                           class="action towishlist" data-action="add-to-wishlist"
+                                                           title="Add to Wish List">
+                                                            <span>Add to Wish List</span>
+                                                        </a>
+                                                                                                                                                                                                                        <a href="#" class="action tocompare"
+                                                           data-post='{"action":"http:\/\/localhost\/index.php\/catalog\/product_compare\/add\/","data":{"product":"9","uenc":"aHR0cDovL2xvY2FsaG9zdC9pbmRleC5waHAv"}}'
+                                                           title="Add to Compare">
+                                                            <span>Add to Compare</span>
+                                                        </a>
+                                                                                                    </div>
+                                            </div>
+                                                                            </div>
+                                </div>
+                                <div class="product-item-details">
+                                    <strong class="product-item-name">
+                                        <a title="Bluetooth True Wireless Samsung Galaxy Buds Live"
+                                           href="http://localhost/index.php/bluetooth-true-wireless-samsung-galaxy-buds-live.html"
+                                           class="product-item-link">
+                                               Bluetooth True Wireless Samsung Galaxy Buds Live                                        </a>
+                                    </strong>
+                                    <div class="price-box price-final_price" data-role="priceBox" data-product-id="9" data-price-box="product-id-9">
+    
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+        <span  id="old-price-9-widget-product-grid"                data-price-amount="1990000"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">1.990.000,00 ₫</span></span>
+        </span>
+
+</div>
+                                                                                                                
+                                                                            <div class="product-item-inner">
+                                            <div class="product-item-actions">
+                                                                                                    <div class="actions-primary">
+                                                                                                                                                                                                                                                    <button class="action tocart primary"
+                                                                        data-post='{"action":"http:\/\/localhost\/index.php\/checkout\/cart\/add\/uenc\/aHR0cDovL2xvY2FsaG9zdC9pbmRleC5waHAv\/product\/9\/","data":{"product":"9","uenc":"aHR0cDovL2xvY2FsaG9zdC9pbmRleC5waHAv"}}'
+                                                                        type="button" title="Add to Cart">
+                                                                    <span>Add to Cart</span>
+                                                                </button>
+                                                                                                                                                                        </div>
+                                                                                            </div>
+                                        </div>
+                                                                    </div>
+                            </div>
+                            </li>                                            </ol>
+                </div>
+            </div>
+                    </div>
+    </div>
+    <script type="text/javascript" xml="space">
+        require(['jquery', 'pixtronowlcarousel'], function() {
+            jQuery(document).ready(function() {
+                jQuery(".product-widget-slider").owlCarousel({
+                    items: 5,
+                    itemsDesktop: [1198, 5],
+                    itemsDesktopSmall: [1023, 4],
+                    itemsTablet: [768, 3],
+                    itemsTabletSmall: [767, 3],
+                    itemsMobile: [479, 2],
+                    pagination: false,
+                    navigationText: ["<div class='left-arrow'><i class='fa fa-angle-left'></i></div>", "<div class='right-arrow'><i class='fa fa-angle-right'></div>"],
+                    navigation: true,
+                });
+                jQuery('.product-widget-slider .product-slider').show();
+            });
+        });
+    </script>
+";}

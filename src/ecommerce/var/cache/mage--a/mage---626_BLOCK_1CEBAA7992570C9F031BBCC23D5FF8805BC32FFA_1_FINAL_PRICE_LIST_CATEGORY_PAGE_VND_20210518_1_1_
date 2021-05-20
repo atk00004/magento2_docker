@@ -1,0 +1,13 @@
+a:4:{s:4:"hash";s:0:"";s:5:"mtime";i:1621307497;s:6:"expire";i:1621393897;s:4:"tags";s:45:"626_BLOCK_HTML,626_CAT_P_1,626_CAT_P,626_MAGE";}
+a:2:{s:8:"policies";a:2:{i:0;a:3:{s:2:"id";s:10:"script-src";s:5:"hosts";a:0:{}s:6:"hashes";a:16:{s:44:"7K7h6Yh4QtHHb0ExgGF3A9VzE+ais3HWIKpioWEC3dU=";s:6:"sha256";s:44:"48sb4Je7XoTlJimO7pm/+fwXo5BBI6oU4Vci+QqK2/I=";s:6:"sha256";s:44:"HUjaEs6gPI/8f06cL8Wy1zR3vaPjSDAYb+YL5IRBsf4=";s:6:"sha256";s:44:"9N89WMndeXJQQmez3zcXupuWhb0jRtPuHYgRtBa1Cjo=";s:6:"sha256";s:44:"RQp4PiyZAGB/hdZN138s61PsWycSSLXsExt17Q4aRWk=";s:6:"sha256";s:44:"Gs6YQPst+PWJA/sNK2HUTXFWh9Umxkr7thuUenTG9Ak=";s:6:"sha256";s:44:"aGGd7oHsZmP+1TwNEsvXpqbnZhYh4+qjaX8LyXJXSms=";s:6:"sha256";s:44:"TpFf5XDyXN+nNOFzXg7ZKofVFfMZbzkbv38A1Pw7h0M=";s:6:"sha256";s:44:"E+OfB5KOA/jCloUORjLOPR5I5+Z0QXDa7361qQKXSi8=";s:6:"sha256";s:44:"bph2zvboiDM8zVkLlxKgGKmzIX3Z52pWO5B0H9dMvus=";s:6:"sha256";s:44:"JH80Bn2vX6SxqefmtkQBMJy7i6hvCSo4lxI05z3XyOI=";s:6:"sha256";s:44:"LOE/nJtvF3JbWJ4DeECgbvV9/8t8QIfNO1d1hyxmbvU=";s:6:"sha256";s:44:"U7mWXDHdtXr6+7rklLNFz0rRvpa7eohjYFbAEPt0yVM=";s:6:"sha256";s:44:"Tn8JEjbORToN8Bd7cXK3p0Wc6k5n3IqdCwMbJVa2jUM=";s:6:"sha256";s:44:"5ZTMRRliJClq5a1HBb+d456XI5zb9VHfQ/gsSR1Lbn4=";s:6:"sha256";s:44:"V9i6zPhQVYihzIM/IjLaFirHK7QYG5r32+4jLxSX+FE=";s:6:"sha256";}}i:1;a:3:{s:2:"id";s:9:"style-src";s:5:"hosts";a:0:{}s:6:"hashes";a:10:{s:44:"VK9jxNQ7uPSpTwDFQecLmgC40J8p8a0R824120/W2GM=";s:6:"sha256";s:44:"MsMsc1/RpdWncBYyZfd5e9CYP6iH5kxc02HhvlzkJSw=";s:6:"sha256";s:44:"ccmzCPVuEQZfVzR/452ucQd55k/lW/J+xNGvdemow1Q=";s:6:"sha256";s:44:"TA6cZ6z7cCx/It9q8/STrX3gTMMvgxQWT6uRSFv9aXU=";s:6:"sha256";s:44:"sKhkc6pLGOP/nqmRAPWRavZ7x2WyCzCUHt6WZLn18pY=";s:6:"sha256";s:44:"gUENmru72Rg2ublX6AdhnOX8WlBUMEj3OKLPmQuEp+k=";s:6:"sha256";s:44:"DY/ZydDoaLH7iwGEZS5aDj9bLtHLSi+gp0YaveEGx08=";s:6:"sha256";s:44:"3hrJOYvpE8sNkG2bpjsCIlKU09e1qxxqsPHQf8pSY/Q=";s:6:"sha256";s:44:"DFwupss2jtBpFOnUi5zlK2n/6QE2oFjG86RrHidy1d0=";s:6:"sha256";s:44:"66wczoauY1X6M7ZrKqySeXczarTZ8UxWWUkhLDWsO08=";s:6:"sha256";}}}s:4:"html";s:425:"<div class="price-box price-final_price" data-role="priceBox" data-product-id="1" data-price-box="product-id-1">
+    
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+        <span  id="product-price-1"                data-price-amount="28790000"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">28.790.000,00 ₫</span></span>
+        </span>
+
+</div>";}

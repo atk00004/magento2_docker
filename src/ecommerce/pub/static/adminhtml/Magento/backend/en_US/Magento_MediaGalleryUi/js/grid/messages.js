@@ -1,0 +1,1 @@
+/var/www/html/ecommerce/vendor/magento/module-media-gallery-ui/view/adminhtml/web/js/grid/messages.js
